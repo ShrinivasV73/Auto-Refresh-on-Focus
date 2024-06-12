@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Refresh on Focus",
+  "version": "1.0",
+  "description": "Refreshes the page when the browser window regains focus.",
+  "permissions": ["tabs"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "host_permissions": ["<all_urls>"]
+}
