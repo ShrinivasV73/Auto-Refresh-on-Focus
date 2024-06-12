@@ -26,14 +26,20 @@ I wanted to figure out, if there was a way that would refresh the briwser window
 
 ### Steps
 
-1. **Clone or Download** the repository to your local machine.
-2. **Open Chrome** and navigate to `chrome://extensions/`.
-3. **Enable Developer Mode** by toggling the switch in the top right.
-4. **Click "Load unpacked"** and select the directory containing your extension files.
+## Step for Google Chrome
+
+1. **Clone or Download** the repository to your local machine. Use the following command in your working direcotry to clone this repository.
+   ```
+   git clone https://github.com/ShrinivasV73/Auto-Refresh-on-Focus.git
+   ```
+3. **Open Chrome** and navigate to `chrome://extensions/`.
+4. **Enable Developer Mode** by toggling the switch in the top right.
+5. **Click "Load unpacked"** and select the directory containing your extension files.
 
 ## Usage
 
 Once installed, the extension will automatically refresh the current page whenever Chrome regains focus. There is no need for manual interaction.
+If you want this extension to not operate beyond your wokring prupose, you can always disable it from the broswer's tool bar where all your extensions reside.
 
 ## Files
 
