@@ -4,7 +4,7 @@ Auto Refresh on Focus is a Chrome extension that refreshes the active tab automa
 
 This can be useful for keeping web pages up to date in real-time without manual refreshes.
 
-## The Story Idea
+## The Story behind The Idea
 
 When I'm working on my React Projects, althought the server is up and running, it needed me to refresh the browser window to look out for warning and bugs in the browser's console.
 
