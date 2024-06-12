@@ -44,6 +44,7 @@ The installation does not difference significantly, but only minor tweaks here a
 ## Usage
 
 Once installed, the extension will automatically refresh the current page whenever Chrome regains focus. There is no need for manual interaction.
+
 If you want this extension to not operate beyond your wokring prupose, you can always disable it from the broswer's tool bar where all your extensions reside.
 
 ## Files
