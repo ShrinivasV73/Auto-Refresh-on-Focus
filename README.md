@@ -1,7 +1,3 @@
-Here's a `README.md` file for the Chrome extension "Auto Refresh on Focus":
-
----
-
 # Auto Refresh on Focus
 
 Auto Refresh on Focus is a Chrome extension that refreshes the active tab automatically when the Chrome window regains focus after switching from another application.
