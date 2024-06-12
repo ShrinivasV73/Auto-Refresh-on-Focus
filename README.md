@@ -24,9 +24,7 @@ I wanted to figure out, if there was a way that would refresh the briwser window
 
 - Google Chrome browser (latest version recommended).
 
-### Steps
-
-## Step for Google Chrome
+### Step for Google Chrome
 
 1. **Clone or Download** the repository to your local machine. Use the following command in your working direcotry to clone this repository.
    ```
@@ -35,6 +33,13 @@ I wanted to figure out, if there was a way that would refresh the briwser window
 3. **Open Chrome** and navigate to `chrome://extensions/`.
 4. **Enable Developer Mode** by toggling the switch in the top right.
 5. **Click "Load unpacked"** and select the directory containing your extension files.
+
+### Steps for Mozilla Firefox
+
+If you want to use this custom extension, on Mozilla Firefox ( which my preferred browser for web dev just like many other devs ) you can check out [https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#trying_it_out](this) link for detailed installation process.
+
+The installation does not difference significantly, but only minor tweaks here and there would be observed.
+
 
 ## Usage
 
