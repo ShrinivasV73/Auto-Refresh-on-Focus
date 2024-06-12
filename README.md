@@ -36,7 +36,7 @@ I wanted to figure out, if there was a way that would refresh the briwser window
 
 ### Steps for Mozilla Firefox
 
-If you want to use this custom extension, on Mozilla Firefox ( which my preferred browser for web dev just like many other devs ) you can check out [https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#trying_it_out](this) link for detailed installation process.
+If you want to use this custom extension, on Mozilla Firefox ( which my preferred browser for web dev just like many other devs ) you can check out [this](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#trying_it_out) link for detailed installation process.
 
 The installation does not difference significantly, but only minor tweaks here and there would be observed.
 
