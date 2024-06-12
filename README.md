@@ -108,20 +108,10 @@ To modify or extend the functionality:
 - Use Chrome's developer tools (`Ctrl + Shift + I`) to view console logs for debugging.
 - Monitor the `chrome://extensions/` page for any errors or warnings related to the extension.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
 ## Contact
 
-For questions or feedback, please [open an issue](https://github.com/your-repo/issues).
-
----
-
-Replace `https://github.com/your-repo/issues` with the actual URL to the issues page of your repository if you are hosting the project on a platform like GitHub.
-
-This `README.md` provides a detailed overview of the extension, its functionality, and guidance for installation and development.
+For questions or feedback, please email on [shrinivasv73@gmail.com](mailto:shrinivasv73@gmail.com).
